@@ -1,0 +1,67 @@
+[
+    {
+        "id": "clientA",
+        "name": "Client A Name",
+        "address": {
+            "id": "addressA",
+            "street": "123 W St.",
+            "city": "Philadelphia", 
+            "state": "PA"
+        }
+    },
+    {
+        "id": "clients",
+        "name": "Client B Name",
+        "address": {
+            "id": "addressB",
+            "city": "Orlando",
+            "street": "456 Pine St", 
+            "state": "FL"
+        }
+    },
+    {
+        "id": "clients",
+        "name": "Client C Name",
+        "address": {
+            "id": "addressC",
+            "city": "Orlando",
+            "street": "456 Pine St", 
+            "state": "FL"
+        }
+    },
+    {
+        "id": "clients",
+        "name": "Client D Name",
+        "address": {
+            "id": "addressD",
+            "city": "Orlando",
+            "street": "456 Pine St", 
+            "state": "FL"
+        }
+    },
+    {
+        "id": "clients",
+        "name": "Client E Name",
+        "address": {
+            "id": "addressE",
+            "city": "Orlando",
+            "street": "456 Pine St", 
+            "state": "FL"
+        }
+    },
+    {
+        "id": "clients",
+        "name": "Client F Name",
+        "address": {
+            "id": "addressF",
+            "city": "Orlando",
+            "street": "456 Pine St", 
+            "state": "FL"
+        }
+    },
+    
+    {
+        "id": "client",
+        "name": "Client C Name"
+    }
+]
